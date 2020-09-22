@@ -14,7 +14,7 @@
             <p class="name">Chris Parrales</p>
         </div>
         <!-- header end -->
-        
+        <a href="https://ibb.co/XskZVd0"><img src="https://i.ibb.co/1qJfbpy/chrisparrales-me-mi-App-1.png" alt="chrisparrales-me-mi-App-1" border="0"></a>
         <!-- About Me section start -->
         <div class="section">
             <h1><span>Acerca de mi</span></h1>
